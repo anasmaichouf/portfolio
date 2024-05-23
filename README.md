@@ -33,6 +33,6 @@ Technologies Used:
 - SQL: For data querying, cleaning, and management.
 - Power BI: For creating introductory-level reports and interactive visualizations.
 
-  **[Click here to see the Project](https://github.com/anasmaichouf/Bank-Loan-Project)**
+  **[Click here to see the Project]([https://github.com/anasmaichouf/Bank-Loan-Project](https://github.com/anasmaichouf/Walmart-Sales))**
 
 
