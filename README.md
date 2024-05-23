@@ -5,7 +5,7 @@
 ### Bank Loan Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img src="/assets/img/loanbk.png" width="460" height="300">
+  <img width="600" height="200" src="https://cdni.iconscout.com/illustration/premium/thumb/bank-loan-3949662-3322131.png">
 </p>
 
 In this project, I developed a comprehensive analysis system for bank loans utilizing SQL for data management and Power BI for visualization. The primary goal was to provide insightful analytics on loan applications, funded amount, and received amount, average interest rate and average DTI (Debt to Income).
@@ -27,7 +27,7 @@ This project was a great learning experience, helping me build foundational skil
 ### Walmart Sales Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img src="/assets/img/walmart.png" alt="Walmart Sales">
+  <img width="600" height="200" src="https://i.pinimg.com/originals/e1/d7/00/e1d7006313fd700ba2ab6e01a494fc03.png">
 </p>
 
 This project focuses on analyzing Walmart sales data to derive meaningful insights that can help understand sales performance and trends. Using SQL for data management and Power BI for data visualization, the project aims to provide a comprehensive overview of sales metrics, identify key patterns, and highlight areas for potential improvement. This hands-on project has been a great opportunity to apply data analysis skills and create interactive visualizations that offer valuable business insights.
@@ -44,7 +44,7 @@ Technologies Used:
 ### Revenue Performance Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img src="/assets/img/revenue-perf.png" alt="Revenue Performance">
+  <img width="600" height="200" src="https://p7.hiclipart.com/preview/325/555/823/performance-metric-business-evaluation-strategy-management-sales-tracking.jpg">
 </p>
 
 In this project, I analyzed revenue performance data to gain insights into various aspects of revenue generation, including regional performance, client contributions, and departmental revenue. Using SQL for data processing and Power BI for visualization, I created a comprehensive analysis to help understand and track revenue trends.
@@ -71,7 +71,7 @@ Technologies Used:
 ### Cars Sales Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img src="/assets/img/cars--sales.png" alt="Cars Sales">
+  <img width="600" height="200" src="https://www.cartalk.com/sites/default/files/blogimgs/Used-Car-Buyer%E2%80%99s-Guide-Asking-the-Right-Questions-01.png">
 </p>
 
 In this project, I analyzed car sales data to uncover insights into sales performance, customer preferences, and ratings. Using SQL for data handling and Power BI for visualization, I created a detailed analysis to understand trends in car sales and customer feedback.
