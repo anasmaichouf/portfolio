@@ -8,8 +8,6 @@
   <img src="/assets/img/loanbk.png" alt="BANK LOAN">
 </p>
 
-![BANK LOAN](/assets/img/loanbk.png)
-
 In this project, I developed a comprehensive analysis system for bank loans utilizing SQL for data management and Power BI for visualization. The primary goal was to provide insightful analytics on loan applications, funded amount, and received amount, average interest rate and average DTI (Debt to Income).
 
 Project Highlights:
@@ -27,7 +25,10 @@ This project was a great learning experience, helping me build foundational skil
 -------------------------------------------------------------------------------------------
 
 ### Walmart Sales Analysis Project using SQL and Power BI
-![Walmart Sales](/assets/img/walmart.png)
+
+<p align="center">
+  <img src="/assets/img/walmart.png" alt="Walmart Sales">
+</p>
 
 This project focuses on analyzing Walmart sales data to derive meaningful insights that can help understand sales performance and trends. Using SQL for data management and Power BI for data visualization, the project aims to provide a comprehensive overview of sales metrics, identify key patterns, and highlight areas for potential improvement. This hands-on project has been a great opportunity to apply data analysis skills and create interactive visualizations that offer valuable business insights.
 
@@ -42,7 +43,9 @@ Technologies Used:
 
 ### Revenue Performance Analysis Project using SQL and Power BI
 
-![Revenue Performance](/assets/img/revenue-perf.png)
+<p align="center">
+  <img src="/assets/img/revenue-perf.png" alt="Revenue Performance">
+</p>
 
 In this project, I analyzed revenue performance data to gain insights into various aspects of revenue generation, including regional performance, client contributions, and departmental revenue. Using SQL for data processing and Power BI for visualization, I created a comprehensive analysis to help understand and track revenue trends.
 
@@ -67,7 +70,9 @@ Technologies Used:
 
 ### Cars Sales Analysis Project using SQL and Power BI
 
-![Cars Sales](/assets/img/cars--sales.png)
+<p align="center">
+  <img src="/assets/img/cars--sales.png" alt="Cars Sales">
+</p>
 
 In this project, I analyzed car sales data to uncover insights into sales performance, customer preferences, and ratings. Using SQL for data handling and Power BI for visualization, I created a detailed analysis to understand trends in car sales and customer feedback.
 
