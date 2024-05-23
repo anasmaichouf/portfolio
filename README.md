@@ -37,7 +37,7 @@ Technologies Used:
 - SQL: For data querying, cleaning, and management.
 - Power BI: For creating introductory-level reports and interactive visualizations.
 
-  **[Click here to see the Project](https://github.com/anasmaichouf/Walmart-Sales)**
+**[Click here to see the Project](https://github.com/anasmaichouf/Walmart-Sales)**
 
 -------------------------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ Technologies Used:
 - SQL: For data querying, cleaning, and management.
 - Power BI: For creating introductory-level reports and interactive visualizations.
 
-   **[Click here to see the Project](https://github.com/anasmaichouf/Revenue-performance)** 
+**[Click here to see the Project](https://github.com/anasmaichouf/Revenue-performance)** 
 
 -------------------------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Technologies Used:
 SQL: For comprehensive data querying, cleaning, and management.
 Power BI: For creating interactive and informative reports and visualizations.
 
-   **[Click here to see the Project](https://github.com/anasmaichouf/Cars-Sales)** 
+**[Click here to see the Project](https://github.com/anasmaichouf/Cars-Sales)** 
