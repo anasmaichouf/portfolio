@@ -62,7 +62,7 @@ Technologies Used:
 
 ### Cars Sales Analysis Project using SQL and Power BI
 
-![Cars Sales](/assets/img/Dashboard PBI.png)
+![Cars Sales](/assets/img/Dashboard-PBI.png)
 
 In this project, I analyzed car sales data to uncover insights into sales performance, customer preferences, and ratings. Using SQL for data handling and Power BI for visualization, I created a detailed analysis to understand trends in car sales and customer feedback.
 
