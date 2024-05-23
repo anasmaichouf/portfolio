@@ -34,7 +34,7 @@ Technologies Used:
   **[Click here to see the Project](https://github.com/anasmaichouf/Walmart-Sales)**
 
   ### Revenue Performance Analysis Project using SQL and Power BI
-![Walmart Sales](/assets/img/walmart.png)
+![Walmart Sales](/assets/img/revenue-perf.png)
 
 In this project, I analyzed revenue performance data to gain insights into various aspects of revenue generation, including regional performance, client contributions, and departmental revenue. Using SQL for data processing and Power BI for visualization, I created a comprehensive analysis to help understand and track revenue trends.
 
@@ -53,7 +53,7 @@ Technologies Used:
 - SQL: For data querying, cleaning, and management.
 - Power BI: For creating introductory-level reports and interactive visualizations.
 
-   **[Click here to see the Project](https://github.com/anasmaichouf/Walmart-Sales)** 
+   **[Click here to see the Project](https://github.com/anasmaichouf/Revenue-performance)** 
 
 
 
