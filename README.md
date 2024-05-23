@@ -2,9 +2,9 @@
 
 
 
-![BANK LOAN](/assets/img/loanbk.png)
-
 ### Bank Loan Analysis Project using SQL and Power BI
+
+![BANK LOAN](/assets/img/loanbk.png)
 
 In this project, I developed a comprehensive analysis system for bank loans utilizing SQL for data management and Power BI for visualization. The primary goal was to provide insightful analytics on loan applications, funded amount, and received amount, average interest rate and average DTI (Debt to Income).
 
@@ -18,5 +18,21 @@ Project Highlights:
 
 This project was a great learning experience, helping me build foundational skills in data analysis and visualization, and demonstrating how to turn raw data into meaningful insights.
 
-**[Like here to see the Project](https://github.com/anasmaichouf/Bank-Loan-Project)**
+**[Click here to see the Project](https://github.com/anasmaichouf/Bank-Loan-Project)**
+
+-------------------------------------------------------------------------------------------
+
+### Walmart Sales Analysis Project using SQL and Power BI
+
+![Walmart Sales](/assets/img/loanbk.png)
+
+This project focuses on analyzing Walmart sales data to derive meaningful insights that can help understand sales performance and trends. Using SQL for data management and Power BI for data visualization, the project aims to provide a comprehensive overview of sales metrics, identify key patterns, and highlight areas for potential improvement. This hands-on project has been a great opportunity to apply data analysis skills and create interactive visualizations that offer valuable business insights.
+
+Technologies Used:
+
+- SQL: For data querying, cleaning, and management.
+- Power BI: For creating introductory-level reports and interactive visualizations.
+
+  **[Click here to see the Project](https://github.com/anasmaichouf/Bank-Loan-Project)**
+
 
