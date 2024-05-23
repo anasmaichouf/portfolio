@@ -14,5 +14,5 @@ Project Highlights:
 
 This project was a great learning experience, helping me build foundational skills in data analysis and visualization, and demonstrating how to turn raw data into meaningful insights.
 
-[Like here to see the Project] 
+**[Like here to see the Project](https://github.com/anasmaichouf/Bank-Loan-Project)**
 
