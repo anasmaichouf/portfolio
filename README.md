@@ -33,4 +33,27 @@ Technologies Used:
 
   **[Click here to see the Project](https://github.com/anasmaichouf/Walmart-Sales)**
 
+  ### Revenue Performance Analysis Project using SQL and Power BI
+![Walmart Sales](/assets/img/walmart.png)
+
+In this project, I analyzed revenue performance data to gain insights into various aspects of revenue generation, including regional performance, client contributions, and departmental revenue. Using SQL for data processing and Power BI for visualization, I created a comprehensive analysis to help understand and track revenue trends.
+
+Project Highlights:
+
+- Data Processing with SQL: Extracted, cleaned, and structured revenue data from various sources using SQL. Wrote queries to pull relevant information and prepare the dataset for analysis.
+- Interactive Dashboards in Power BI: Developed dynamic dashboards in Power BI to visualize key revenue metrics such as revenue by region, revenue by client, month-on-month revenue growth, and revenue by department.
+- Revenue by Region: Analyzed and visualized revenue data across different regions to identify high-performing areas and regions with growth potential.
+- Revenue by Client: Examined revenue contributions from different clients, highlighting major clients and identifying opportunities for enhancing client relationships.
+- Month-on-Month Revenue Growth: Tracked and visualized month-on-month revenue changes to understand growth patterns and seasonal trends.
+- Revenue by Department: Evaluated the revenue performance of various departments, identifying strengths and areas for improvement within the organization.
+- Performance Tracking: Implemented visualizations to monitor overall revenue performance over time, providing clear insights into revenue trends and helping inform strategic decisions.
+
+Technologies Used:
+
+- SQL: For data querying, cleaning, and management.
+- Power BI: For creating introductory-level reports and interactive visualizations.
+
+   **[Click here to see the Project](https://github.com/anasmaichouf/Walmart-Sales)** 
+
+
 
