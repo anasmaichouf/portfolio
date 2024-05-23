@@ -5,7 +5,7 @@
 ### Bank Loan Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img src="/assets/img/loanbk.png" alt="BANK LOAN">
+  <img src="/assets/img/loanbk.png" width="460" height="300">
 </p>
 
 In this project, I developed a comprehensive analysis system for bank loans utilizing SQL for data management and Power BI for visualization. The primary goal was to provide insightful analytics on loan applications, funded amount, and received amount, average interest rate and average DTI (Debt to Income).
