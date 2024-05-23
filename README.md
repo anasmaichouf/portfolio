@@ -1,6 +1,6 @@
 # Data Analyst
 
-                        ![BANK LOAN](/assets/img/loanbk.png)
+![BANK LOAN](/assets/img/loanbk.png)
 
 ### Bank Loan Analysis Project using SQL and Power BI
 
