@@ -44,7 +44,7 @@ Technologies Used:
 ### Revenue Performance Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img width="600" height="200" src="https://p7.hiclipart.com/preview/325/555/823/performance-metric-business-evaluation-strategy-management-sales-tracking.jpg">
+  <img width="600" height="200" src="https://i0.wp.com/cezannehr.com/wp-content/uploads/2017/01/The-11-HR-metrics-every-professional-should-know-Cezanne-HR-blog.png?resize=660%2C407&ssl=1">
 </p>
 
 In this project, I analyzed revenue performance data to gain insights into various aspects of revenue generation, including regional performance, client contributions, and departmental revenue. Using SQL for data processing and Power BI for visualization, I created a comprehensive analysis to help understand and track revenue trends.
@@ -71,7 +71,7 @@ Technologies Used:
 ### Cars Sales Analysis Project using SQL and Power BI
 
 <p align="center">
-  <img width="600" height="200" src="https://www.cartalk.com/sites/default/files/blogimgs/Used-Car-Buyer%E2%80%99s-Guide-Asking-the-Right-Questions-01.png">
+  <img width="600" height="200" src="https://lh3.googleusercontent.com/proxy/4PwHQz0nSgEilrlsQodg4eCE_VnfQe4ccMlyHsV0lWha3G48Hh1B5lLvYCcGlDTQVyuPNySf9yBJnjvxRgroy87dR55oIwSB_DokObZ1R_gkYGiQ2gvvNFyOs6UH">
 </p>
 
 In this project, I analyzed car sales data to uncover insights into sales performance, customer preferences, and ratings. Using SQL for data handling and Power BI for visualization, I created a detailed analysis to understand trends in car sales and customer feedback.
