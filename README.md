@@ -37,7 +37,7 @@ Technologies Used:
 
 ### Revenue Performance Analysis Project using SQL and Power BI
 
-![Walmart Sales](/assets/img/revenue-perf.png)
+![Revenue Performance](/assets/img/revenue-perf.png)
 
 In this project, I analyzed revenue performance data to gain insights into various aspects of revenue generation, including regional performance, client contributions, and departmental revenue. Using SQL for data processing and Power BI for visualization, I created a comprehensive analysis to help understand and track revenue trends.
 
@@ -58,5 +58,26 @@ Technologies Used:
 
    **[Click here to see the Project](https://github.com/anasmaichouf/Revenue-performance)** 
 
+-------------------------------------------------------------------------------------------
 
+### Cars Sales Analysis Project using SQL and Power BI
 
+![Cars Sales](/assets/img/Dashboard PBI.png)
+
+In this project, I analyzed car sales data to uncover insights into sales performance, customer preferences, and ratings. Using SQL for data handling and Power BI for visualization, I created a detailed analysis to understand trends in car sales and customer feedback.
+
+Project Highlights:
+
+- Data Processing with SQL: Extracted, cleaned, and organized car sales data using SQL. Crafted queries to retrieve essential information for analysis.
+- Interactive Dashboards in Power BI: Developed dynamic dashboards in Power BI to visualize key metrics such as units sold by year, units sold by car options, and customer ratings.
+- Units Sold by Year: Analyzed yearly sales data to identify trends and growth patterns in car sales over time.
+- Units Sold by Car Options: Examined sales based on different car options (e.g., color, model, features) to understand customer preferences and popular configurations.
+- Customer Ratings Analysis: Investigated customer ratings to assess satisfaction levels and identify areas for improvement in product offerings.
+- Performance Tracking: Implemented visualizations to track overall sales performance and customer feedback, providing clear insights to support marketing and sales strategies.
+
+Technologies Used:
+
+SQL: For comprehensive data querying, cleaning, and management.
+Power BI: For creating interactive and informative reports and visualizations.
+
+   **[Click here to see the Project](https://github.com/anasmaichouf/Cars-Sales)** 
