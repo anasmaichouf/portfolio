@@ -1,6 +1,32 @@
+### E-Commerce Data Analysis Project using SQL and Tableau
 
+<p align="center">
+  <img width="600" height="200" src="https://www.kindpng.com/picc/m/611-6116517_e-commerce-png-transparent-png.png">
+</p>
 
+This project involves an in-depth analysis of an e-commerce platform's data to gain insights into customer behavior, sales performance, product popularity, payment methods, and delivery performance. The goal is to provide actionable insights that can help improve business strategies, enhance customer experience, and optimize operations.
 
+Data Sources:
+
+The analysis utilizes the following CSV files:
+
+- Customers.csv: Customer details including unique IDs, locations, and state codes.
+- Geolocation.csv: Geolocation data including latitude, longitude, and zip codes.
+- Order_Items.csv: Order item details such as product IDs, seller IDs, prices, and shipping information.
+- Orders.csv: Order information including status, timestamps, and delivery dates.
+- Payments.csv: Payment details including payment types, installment information, and values.
+- Products.csv: Product details including category names, dimensions, and weights.
+- Sellers.csv: Seller information including locations and state codes.
+
+Tools and Technologies:
+
+- SQL: For data extraction and preparation.
+- Tableau: For data visualization and dashboard creation.
+
+**[Click here to see Tableau Visualization](https://public.tableau.com/app/profile/anas.maichouf/viz/Ecommerce-HomePage/HomePage?publish=yes)**
+**[Click here to see SQL Query](https://github.com/anasmaichouf/Ecommerce-Sales-Project)**
+
+-------------------------------------------------------------------------------------------
 
 ### Bank Loan Analysis Project using SQL and Power BI
 
