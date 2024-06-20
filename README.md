@@ -23,8 +23,8 @@ Tools and Technologies:
 - SQL: For data extraction and preparation.
 - Tableau: For data visualization and dashboard creation.
 
-- **[Click here to see Tableau Visualization](https://public.tableau.com/app/profile/anas.maichouf/viz/Ecommerce-HomePage/HomePage?publish=yes)**
-- **[Click here to see SQL Query](https://github.com/anasmaichouf/Ecommerce-Sales-Project)**
+**[Click here to see Tableau Visualization](https://public.tableau.com/app/profile/anas.maichouf/viz/Ecommerce-HomePage/HomePage?publish=yes)**//
+**[Click here to see SQL Query](https://github.com/anasmaichouf/Ecommerce-Sales-Project)**
 
 -------------------------------------------------------------------------------------------
 
